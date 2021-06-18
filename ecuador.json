@@ -1,0 +1,695 @@
+[
+  {
+    "location": "Ecuador",
+    "date": "2021-01-21",
+    "vaccine": "Pfizer/BioNTech",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 0,
+    "people_vaccinated": 0,
+    "people_fully_vaccinated": 0
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-01-22",
+    "vaccine": "Pfizer/BioNTech",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 108,
+    "people_vaccinated": 108,
+    "people_fully_vaccinated": 0
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-01-27",
+    "vaccine": "Pfizer/BioNTech",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 2982,
+    "people_vaccinated": 2982,
+    "people_fully_vaccinated": 0
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-02-04",
+    "vaccine": "Pfizer/BioNTech",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 6228,
+    "people_vaccinated": 6228,
+    "people_fully_vaccinated": 0
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-02-17",
+    "vaccine": "Pfizer/BioNTech",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 8190,
+    "people_vaccinated": 6228,
+    "people_fully_vaccinated": 1962
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-02-24",
+    "vaccine": "Pfizer/BioNTech",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 24492,
+    "people_vaccinated": 20784,
+    "people_fully_vaccinated": 3708
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-03-01",
+    "vaccine": "Pfizer/BioNTech",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 42114,
+    "people_vaccinated": 35886,
+    "people_fully_vaccinated": 6228
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-03-04",
+    "vaccine": "Pfizer/BioNTech",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 59316,
+    "people_vaccinated": 53088,
+    "people_fully_vaccinated": 6228
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-03-05",
+    "vaccine": "Pfizer/BioNTech",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 71148,
+    "people_vaccinated": 64920,
+    "people_fully_vaccinated": 6228
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-03-08",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 74472,
+    "people_vaccinated": 68244,
+    "people_fully_vaccinated": 6228
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-03-09",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 75258,
+    "people_vaccinated": 69030,
+    "people_fully_vaccinated": 6228
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-03-11",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 95915,
+    "people_vaccinated": 89687,
+    "people_fully_vaccinated": 6228
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-03-12",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 123176,
+    "people_vaccinated": 116948,
+    "people_fully_vaccinated": 6228
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-03-13",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 139359,
+    "people_vaccinated": 119222,
+    "people_fully_vaccinated": 20137
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-03-15",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 141191,
+    "people_vaccinated": 121054,
+    "people_fully_vaccinated": 20137
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-03-21",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 178970,
+    "people_vaccinated": 140765,
+    "people_fully_vaccinated": 38205
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-03-23",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 182261,
+    "people_vaccinated": 143614,
+    "people_fully_vaccinated": 38647
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-03-24",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 191179,
+    "people_vaccinated": 152526,
+    "people_fully_vaccinated": 38653
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-03-26",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 230770,
+    "people_vaccinated": 172413,
+    "people_fully_vaccinated": 58357
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-03-27",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 235000,
+    "people_vaccinated": 174642,
+    "people_fully_vaccinated": 60358
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-03-29",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 244866,
+    "people_vaccinated": 182329,
+    "people_fully_vaccinated": 62537
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-04-01",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 283106,
+    "people_vaccinated": 204902,
+    "people_fully_vaccinated": 78204
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-04-04",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 301069,
+    "people_vaccinated": 211720,
+    "people_fully_vaccinated": 89349
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-04-05",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 335093,
+    "people_vaccinated": 228504,
+    "people_fully_vaccinated": 106589
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-04-06",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 356783,
+    "people_vaccinated": 244159,
+    "people_fully_vaccinated": 112624
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-04-08",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 363255,
+    "people_vaccinated": 250631,
+    "people_fully_vaccinated": 112624
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-04-14",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 480962,
+    "people_vaccinated": 338180,
+    "people_fully_vaccinated": 142782
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-04-15",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 485132,
+    "people_vaccinated": 338180,
+    "people_fully_vaccinated": 146952
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-04-16",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 514151,
+    "people_vaccinated": 354019,
+    "people_fully_vaccinated": 160132
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-04-17",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 545132,
+    "people_vaccinated": 377199,
+    "people_fully_vaccinated": 167933
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-04-18",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 554369,
+    "people_vaccinated": 384093,
+    "people_fully_vaccinated": 170276
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-04-19",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 577711,
+    "people_vaccinated": 401871,
+    "people_fully_vaccinated": 175840
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-04-20",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 601229,
+    "people_vaccinated": 421937,
+    "people_fully_vaccinated": 179292
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-04-21",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 643702,
+    "people_vaccinated": 457403,
+    "people_fully_vaccinated": 186299
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-04-22",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 675510,
+    "people_vaccinated": 486524,
+    "people_fully_vaccinated": 188986
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-04-23",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 711204,
+    "people_vaccinated": 514854,
+    "people_fully_vaccinated": 196350
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-04-24",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 732717,
+    "people_vaccinated": 532367,
+    "people_fully_vaccinated": 200350
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-04-25",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 743937,
+    "people_vaccinated": 541420,
+    "people_fully_vaccinated": 202517
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-04-26",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 765489,
+    "people_vaccinated": 555265,
+    "people_fully_vaccinated": 210224
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-04-27",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 816175,
+    "people_vaccinated": 595699,
+    "people_fully_vaccinated": 220476
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-04-28",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 861393,
+    "people_vaccinated": 633421,
+    "people_fully_vaccinated": 227972
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-04-29",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 920865,
+    "people_vaccinated": 691000,
+    "people_fully_vaccinated": 229865
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-04-30",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 987452,
+    "people_vaccinated": 748021,
+    "people_fully_vaccinated": 239431
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-05-01",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 1036794,
+    "people_vaccinated": 791822,
+    "people_fully_vaccinated": 244972
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-05-02",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 1067472,
+    "people_vaccinated": 821960,
+    "people_fully_vaccinated": 245512
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-05-04",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 1141262,
+    "people_vaccinated": 889218,
+    "people_fully_vaccinated": 252044
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-05-05",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 1182085,
+    "people_vaccinated": 924539,
+    "people_fully_vaccinated": 257546
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-05-06",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 1215676,
+    "people_vaccinated": 953238,
+    "people_fully_vaccinated": 262438
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-05-07",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 1245822,
+    "people_vaccinated": 981620,
+    "people_fully_vaccinated": 264202
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-05-09",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 1289962,
+    "people_vaccinated": 1024121,
+    "people_fully_vaccinated": 265841
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-05-11",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 1339196,
+    "people_vaccinated": 1066590,
+    "people_fully_vaccinated": 272606
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-05-12",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 1355698,
+    "people_vaccinated": 1076427,
+    "people_fully_vaccinated": 279271
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-05-13",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 1405898,
+    "people_vaccinated": 1101897,
+    "people_fully_vaccinated": 304001
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-05-14",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 1456293,
+    "people_vaccinated": 1138269,
+    "people_fully_vaccinated": 318024
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-05-15",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 1485936,
+    "people_vaccinated": 1152298,
+    "people_fully_vaccinated": 333638
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-05-16",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 1524724,
+    "people_vaccinated": 1179062,
+    "people_fully_vaccinated": 345662
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-05-17",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 1560453,
+    "people_vaccinated": 1203517,
+    "people_fully_vaccinated": 356936
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-05-18",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 1583399,
+    "people_vaccinated": 1203778,
+    "people_fully_vaccinated": 379621
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-05-19",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 1627070,
+    "people_vaccinated": 1225735,
+    "people_fully_vaccinated": 401335
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-05-20",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 1727805,
+    "people_vaccinated": 1299730,
+    "people_fully_vaccinated": 428075
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-05-22",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 1893053,
+    "people_vaccinated": 1404426,
+    "people_fully_vaccinated": 488627
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-05-23",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 1946346,
+    "people_vaccinated": 1448787,
+    "people_fully_vaccinated": 497559
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-05-25",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 2025156,
+    "people_vaccinated": 1509795,
+    "people_fully_vaccinated": 515361
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-05-27",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 2110324,
+    "people_vaccinated": 1526895,
+    "people_fully_vaccinated": 583429
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-05-28",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 2172656,
+    "people_vaccinated": 1538178,
+    "people_fully_vaccinated": 634478
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-05-29",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 2205483,
+    "people_vaccinated": 1552480,
+    "people_fully_vaccinated": 653003
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-05-30",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 2225005,
+    "people_vaccinated": 1562970,
+    "people_fully_vaccinated": 662035
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-06-01",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 2387698,
+    "people_vaccinated": 1622557,
+    "people_fully_vaccinated": 765141
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-06-02",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 2447889,
+    "people_vaccinated": 1657029,
+    "people_fully_vaccinated": 790860
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-06-03",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 2529218,
+    "people_vaccinated": 1702124,
+    "people_fully_vaccinated": 827094
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-06-04",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 2597836,
+    "people_vaccinated": 1744825,
+    "people_fully_vaccinated": 853011
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-06-05",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 2645983,
+    "people_vaccinated": 1774025,
+    "people_fully_vaccinated": 871958
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-06-06",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 2665806,
+    "people_vaccinated": 1791632,
+    "people_fully_vaccinated": 874174
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-06-07",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 2717072,
+    "people_vaccinated": 1825096,
+    "people_fully_vaccinated": 891976
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-06-08",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 2788245,
+    "people_vaccinated": 1877548,
+    "people_fully_vaccinated": 910697
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-06-13",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 3081172,
+    "people_vaccinated": 2043159,
+    "people_fully_vaccinated": 1038013
+  },
+  {
+    "location": "Ecuador",
+    "date": "2021-06-15",
+    "vaccine": "Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",
+    "source_url": "https://github.com/andrab/ecuacovid",
+    "total_vaccinations": 3133387,
+    "people_vaccinated": 2079889,
+    "people_fully_vaccinated": 1053498
+  }
+]
