@@ -19,58 +19,42 @@
   <body>
     <h3>Header</h3>
 
-    <div id="csv-display"></div>
+    <table id='table' >
+      <!-- HEADING FORMATION -->
+      <tr>
+          <th>GFG UserHandle</th>
+          <th>Practice Problems</th>
+          <th>Coding Score</th>
+          <th>GFG Articles</th>
+      </tr>
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/0.71/jquery.csv-0.71.min.js"></script>
     <script>
-      var data;
-      $.ajax({
-        type: "GET",
-        url: "ecuacovid-hospitalizadas_por_dia.csv",
-        dataType: "text",
-        success: function (response) {
-          data = $.csv.toArrays(response);
-          generateHtmlTable(data);
-        },
-      });
+      $(document).ready(function () {
+        // FETCHING DATA FROM JSON FILE
+        $.getJSON("https://covid-data-flax.vercel.app/ecuador.json", function (data) {
+          var student = "";
 
-      function generateHtmlTable(data) {
-        var html =
-          '<table  class="table table-condensed table-hover table-striped">';
+          // ITERATING THROUGH OBJECTS
+          $.each(data, function (key, value) {
+            //CONSTRUCTION OF ROWS HAVING
+            // DATA FROM JSON OBJECT
+            student += "<tr>";
+            student += "<td>" + value.location + "</td>";
 
-        if (typeof data[0] === "undefined") {
-          return null;
-        } else {
-          $.each(data, function (index, row) {
-            //bind header
-            if (index == 0) {
-              html += "<thead>";
-              html += "<tr>";
-              $.each(row, function (index, colData) {
-                html += "<th>";
-                html += colData;
-                html += "</th>";
-              });
-              html += "</tr>";
-              html += "</thead>";
-              html += "<tbody>";
-            } else {
-              html += "<tr>";
-              $.each(row, function (index, colData) {
-                html += "<td>";
-                html += colData;
-                html += "</td>";
-              });
-              html += "</tr>";
-            }
+            student += "<td>" + value.date + "</td>";
+
+            student += "<td>" + value.vaccine + "</td>";
+
+            student += "<td>" + value.people_vaccinated + "</td>";
+
+            student += "</tr>";
           });
-          html += "</tbody>";
-          html += "</table>";
 
-          $("#csv-display").append(html);
-        }
-      }
+          //INSERTING ROWS INTO TABLE
+          $("#table").append(student);
+        });
+      });
     </script>
   </body>
 </html>
