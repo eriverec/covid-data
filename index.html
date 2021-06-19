@@ -8,52 +8,69 @@
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css"
       rel="stylesheet"
     />
-    <title>Document</title>
-    <style>
-      #csv-display {
-        overflow: auto;
-        white-space: nowrap;
-      }
-    </style>
+    <title>COVID 19</title>
   </head>
   <body>
-    <h3>COVID 19</h3>
+    <h3 class="m-4 text-center">COVID 19</h3>
 
-    <table id='table' >
-      <!-- HEADING FORMATION -->
-      <tr>
-          <th>GFG UserHandle</th>
-          <th>Practice Problems</th>
-          <th>Coding Score</th>
-          <th>GFG Articles</th>
-      </tr>
+    <div id="data" class="m-auto w-50"></div>
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/numeral.js/2.0.6/numeral.min.js"></script>
+
     <script>
       $(document).ready(function () {
         // FETCHING DATA FROM JSON FILE
-        $.getJSON("https://covid-data-flax.vercel.app/ecuadorupdate.json", function (data) {
-          var student = "";
+        $.getJSON(
+          "https://covid-data-flax.vercel.app/ecuadorupdate.json",
+          function (data) {
+            var student = "";
+            console.log(student);
 
-          // ITERATING THROUGH OBJECTS
-          $.each(data, function (key, value) {
-            //CONSTRUCTION OF ROWS HAVING
-            // DATA FROM JSON OBJECT
-            student += "<tr>";
-            student += "<td>" + value.location + "</td>";
+            $.each(data, function (key, value) {
+              $("#data").append(`
+              <ol class="list-group ">
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+                  <div class="ms-2 me-auto">
+                    <div class="fw-bold">${
+                      value.location
+                    }</div>                   
+                  </div>                  
+                </li>
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+                  <div class="ms-2 me-auto">
+                    <div class="fw-bold">${value.date}</div>                   
+                  </div>
+                </li>
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+                  <div class="ms-2 me-auto">
+                    <div class="fw-bold">Vacunas Totales</div>
+                  </div>
+                  <span class="badge bg-primary rounded-pill">
+                    ${numeral(value.total_vaccinations).format("0,0")}</span>
+                </li>
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+                  <div class="ms-2 me-auto">
+                    <div class="fw-bold">Personas Vacunadas</div>
+                  </div>
+                  <span class="badge bg-primary rounded-pill">
+                    ${numeral(value.people_vaccinated).format("0,0")}</span>
+                </li>
+              </ol>
+                
+              `);
 
-            student += "<td>" + value.date + "</td>";
-
-            student += "<td>" + value.vaccine + "</td>";
-
-            student += "<td>" + value.people_vaccinated + "</td>";
-
-            student += "</tr>";
-          });
-
-          //INSERTING ROWS INTO TABLE
-          $("#table").append(student);
-        });
+              student += "<h3>Pais</h3>";
+              student += "<h2>" + value.location + "</h2>";
+              student += "<h3>Fecha</h3>";
+              student += "<h2>" + value.date + "</h2>";
+              student += "<h3>Vacunas Totales</h3>";
+              student += "<h2>" + value.total_vaccinations + "</h2>";
+              student += "<h3>Personas Vacunadas</h3>";
+              student += "<h2>" + value.people_vaccinated + "</h2>";
+            });
+          }
+        );
       });
     </script>
   </body>
